@@ -1,0 +1,21 @@
+/* Sidebar.css */
+
+.sidebar {
+    width: 28%; /* One-third of the website width */
+    float: left; /* Float the sidebar to the left */
+    overflow: hidden; /* Hide overflow content */
+  }
+  
+  .image-container {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px; /* Curved edges */
+    overflow: hidden;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the container while maintaining aspect ratio */
+  }
+  
