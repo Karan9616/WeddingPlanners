@@ -27,7 +27,7 @@ function Login() {
   return (
     <div className='main_container'>
         <div className='header'>
-            <h2>Sign Up To Create An Account</h2>
+            <h2>Login</h2>
         </div>
         
         

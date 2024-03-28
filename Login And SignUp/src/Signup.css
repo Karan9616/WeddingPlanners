@@ -8,6 +8,8 @@
     justify-content: center;
     height: 100vh;
     font-family: 'Almendra', serif;
+    background: linear-gradient(45deg,#C15CFF, #FF5454);
+    border-radius: 20px;
     /* Applying Almander font */
 }
 
